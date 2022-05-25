@@ -9,3 +9,7 @@ h3{
 li{
     margin-left: 5%;
 }
+
+ul{
+    list-style: circle;
+}
