@@ -1,0 +1,23 @@
+.row{
+    background-color: beige;
+}
+
+footer{
+    background-color: aquamarine;
+    font-size: small;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+
+    font-style: oblique;
+    box-shadow: 2px 2px 10px gray;
+    text-align: center;
+}
+
+img{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+contacto{
+    text-align:center;
+}
