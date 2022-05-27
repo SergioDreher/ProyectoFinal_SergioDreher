@@ -1,0 +1,23 @@
+.row{
+    background-color: aquamarine;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logoprograma{
+    width: 150px;
+    margin-left: 40px;
+}
+
+#logoredes{
+    width: 45px;
+}
+
+.btn{
+    width: 100px;
+}
+

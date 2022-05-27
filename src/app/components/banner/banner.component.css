@@ -1,3 +1,7 @@
+.row{
+    background-color: aquamarine;
+}
+
 @media(max-width: 500px){
     img{
         width: 95%;
