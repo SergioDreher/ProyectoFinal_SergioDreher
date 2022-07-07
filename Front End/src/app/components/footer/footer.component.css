@@ -1,21 +1,24 @@
 .row{
-    background-color: aquamarine;
+    background-color: #cfd8dc;
 }
 
 footer{
-    background-color: aquamarine;
     font-size: small;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
-
     font-style: oblique;
     box-shadow: 2px 2px 10px gray;
-    text-align: center;
+    text-align:center;
+    padding: 20px;
+    max-height: 130px;
+}
+
+p{
+    text-align: left;
 }
 
 img{
-    max-width: 150px;
-    max-height: 150px;
-    align-items:flex-start;
+    max-width: 80%;
+    max-height: 80%;
+    align-items:flex-end
 }
-
